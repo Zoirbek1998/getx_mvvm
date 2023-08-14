@@ -1,0 +1,7 @@
+{
+  "@@locale": "uz",
+  "helloWorld": "Salom Dunyo",
+  "internet_exception": "Natijalarni ko'rsata olmaymiz.\nIltimos, maʼlumotlaringizni tekshiring\nulanish",
+  "general_exception": "So‘rovingizni ko‘rib chiqa olmadik.\nIltimos, yana bir bor urinib ko'ring"
+
+}

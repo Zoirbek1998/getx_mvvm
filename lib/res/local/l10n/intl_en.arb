@@ -1,0 +1,7 @@
+{
+  "@@locale": "en",
+  "helloWorld": "Hello World",
+  "internet_exception":"We're unable tp show results.\nPlease check your data\nconenction",
+  "general exception":"We're unable to process your request.\nPlease try again"
+
+}
